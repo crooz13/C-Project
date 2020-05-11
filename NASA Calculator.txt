@@ -1,0 +1,1 @@
+Masukkan kecepatan roket (standartnya adalah 40000 km/j) : 38000Masukkan jarak planet dari bumi dalam satuan km : 384400Waktu tempuh anda adalah : 10 hari 
